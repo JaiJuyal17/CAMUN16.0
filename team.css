@@ -259,7 +259,9 @@ h2 {
     margin-top: 50px;
     width: 100%;
     background-color: #452c63;
-}
+    color: white;
+    text-align: center;
+    }
 
 }
 .footer #footer{
@@ -274,10 +276,7 @@ h2 {
 .footer #footer .fa{
     color: #f44336;
 }
-.footer{
-    color: white;
-    text-align: center;
-}
+
 .footer #extra{
     font-size: 12px;
     padding-bottom: 5px;
