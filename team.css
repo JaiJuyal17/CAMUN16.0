@@ -275,7 +275,6 @@ h2 {
     color: #f44336;
 }
 .footer{
-    background-image: linear-gradient(rgba(18, 17, 5, 0.7),rgba(18, 17, 5, 0.7)),url("assets/banner.png");
     color: white;
     text-align: center;
 }
