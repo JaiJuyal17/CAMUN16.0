@@ -258,6 +258,9 @@ h2 {
  .footer{
     margin-top: 50px;
     width: 100%;
+    background-color: #452c63;
+}
+
 }
 .footer #footer{
    text-align: center;
