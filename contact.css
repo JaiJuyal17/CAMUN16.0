@@ -122,6 +122,9 @@
  }
  
  @media(max-width: 750px){
+     .form{
+         padding:10px;
+     }
      .txt-wrapper #txt {
          font-size: 50px;
      }
@@ -356,7 +359,7 @@
 }
 
 .form{
-    margin-top: 70px;
+    margin-top: 90px;
     text-align: center;
     font-size: 2em;
     font-family: "Inter", sans-serif;
@@ -371,5 +374,5 @@
     -webkit-backdrop-filter: blur(10px);
     border-radius: 10px;
     border: 1px solid rgba(255, 255, 255, 0.3);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 3px 4px 4px 6px rgba(0, 0, 0, 0.1);
 }
