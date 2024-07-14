@@ -123,7 +123,9 @@
  
  @media(max-width: 750px){
      .form{
-         padding:10px;
+         padding-left: 0;
+         padding-right: 0;
+
      }
      .txt-wrapper #txt {
          font-size: 50px;
