@@ -163,6 +163,9 @@ nav .fa{
      .nav-links ul{
         padding: 30px;
     }
+    .location{
+        margin-top:50px;
+    }
 
     *{
         overflow-x: hidden ;}
