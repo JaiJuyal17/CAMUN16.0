@@ -279,7 +279,7 @@ nav .fa{
     padding-left: 68px;
 }
 .socials .fa:hover{
-    color: #f44336;
+    color: #FFBD59;
     cursor: pointer;
 }
 @media(max-width: 750px){
